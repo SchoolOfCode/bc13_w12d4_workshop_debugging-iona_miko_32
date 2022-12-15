@@ -8,11 +8,11 @@ function square(num) {
 }
 
 function multiply(a, b) {
-   a * b;
+  return a * b;
 }
 
 function add(a, b) {
-  a = String(a);
+
   return a + b;
 }
 
